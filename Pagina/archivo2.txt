@@ -1,0 +1,3 @@
+Ejercicio para practicar el comando git diff
+
+Practics 2 para ejercicio diff ***
